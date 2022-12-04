@@ -7,8 +7,8 @@ Input :
 N = 5
 A[] = {-8, 2, 3, -6, 10}
 K = 2
-Output : 
--8 0 -6 -6
+**Output : 
+-8 0 -6 -6**
 Explanation :
 First negative integer for each window of size k
 {-8, 2} = -8
@@ -24,8 +24,8 @@ First negative integer for each window of size k
 N = 8
 A[] = {12, -1, -7, 8, -15, 30, 16, 28}
 K = 3
-Output :
--1 -1 -7 -15 -15 0 
+**Output :
+-1 -1 -7 -15 -15 0 **
   </sub>
   
   ## Your Task:  
