@@ -1,6 +1,6 @@
 **Given an array A[] of size N and a positive integer K, find the first negative integer for each and every window(contiguous subarray) of size K.**
 
-##Example 1:
+## Example 1:
 
 <sub> 
 Input : 
@@ -17,7 +17,7 @@ First negative integer for each window of size k
 {-6, 10} = -6
  </sub>
  
- ##Example 2:
+ ## Example 2:
  
  <sub>
   Input : 
@@ -28,7 +28,7 @@ Output :
 -1 -1 -7 -15 -15 0 
   </sub>
   
-  ##Your Task:  
+  ## Your Task:  
   You don't need to read input or print anything. Your task is to complete the function printFirstNegativeInteger() which takes the array A[], its size N and an integer K as inputs and returns the first negative number in every window of size K starting from the first till the end. If a window does not contain a negative integer , then return 0 for that window.
 
 **Expected Time Complexity: O(N)
